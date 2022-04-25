@@ -1,0 +1,91 @@
+/* Write your CSS code here */
+.heading {
+  color: #ea580c;
+  font-family: 'Roboto';
+}
+.firstInput-container {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+}
+.lastInput-container {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+}
+.register-container {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 300px;
+  height: 200px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.firstname-text {
+  font-size: 10px;
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: bold;
+}
+.lastInput-container {
+  font-size: 10px;
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: bold;
+}
+.input-text {
+  margin-bottom: 10px;
+}
+.button {
+  color: #ffffff;
+  background-color: #ea580c;
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 7px;
+  cursor: pointer;
+  outline: none;
+}
+.error-text {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+.name-input-field {
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 500;
+  border: 1px solid #cbd2d9;
+  color: #9aa5b1;
+  border-radius: 4px;
+  margin-top: 5px;
+  padding: 8px 16px 8px 16px;
+  outline: none;
+}
+.submit-another-button {
+  color: #ffffff;
+  background-color: #ea580c;
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 7px;
+  cursor: pointer;
+  outline: none;
+}
+.container {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 300px;
+  height: 200px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
